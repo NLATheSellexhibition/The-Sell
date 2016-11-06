@@ -5030,8 +5030,8 @@ a.badge:focus {
   padding: 4px;
   margin-bottom: 20px;
   line-height: 1.42857143;
-  background-color: #f8f5f0;
-  border: 1px solid #dfd7ca;
+  background-color: #808080;
+  border: 1px solid #8B0000;
   border-radius: 4px;
   -webkit-transition: border 0.2s ease-in-out;
   -o-transition: border 0.2s ease-in-out;
